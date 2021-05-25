@@ -74,6 +74,17 @@
       "balance": 75369,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
+    },
+    {
+      "id": "vG3iPhjF4",
+      "uuid": "b972ce91-c508-4942-8ab2-35dcd9d89df7",
+      "firstName": "test-user",
+      "lastName": "test-user",
+      "username": "test-user",
+      "password": "$2a$10$/UGnW/uruv6zVTBZR4m6Ve98ci2eANsKzajmF2IBWTcRcFzRJU8BG",
+      "balance": 0,
+      "createdAt": "2021-05-24T04:41:09.831Z",
+      "modifiedAt": "2021-05-24T04:41:09.831Z"
     }
   ],
   "contacts": [
@@ -253,6 +264,17 @@
       "isDeleted": false,
       "createdAt": "2019-09-30T14:20:07.043Z",
       "modifiedAt": "2020-05-21T22:40:28.910Z"
+    },
+    {
+      "id": "j0edfEz1G",
+      "uuid": "cfc659eb-70e1-4feb-a96b-9e103c9b6aea",
+      "userId": "vG3iPhjF4",
+      "bankName": "python-selenium",
+      "accountNumber": "999281882",
+      "routingNumber": "281009882",
+      "isDeleted": false,
+      "createdAt": "2021-05-24T04:41:46.615Z",
+      "modifiedAt": "2021-05-24T04:41:46.615Z"
     }
   ],
   "transactions": [
