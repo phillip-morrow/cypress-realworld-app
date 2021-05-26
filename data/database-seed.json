@@ -211,6 +211,17 @@
   ],
   "bankaccounts": [
     {
+      "id": "rJ8iY3dWX",
+      "uuid": "054775d9-a5f2-46fe-a135-9354798592f4",
+      "userId": "Hk_RyxBFd",
+      "bankName": "bank-account",
+      "accountNumber": "123456789",
+      "routingNumber": "123456789",
+      "isDeleted": false,
+      "createdAt": "2021-05-25T22:47:25.727Z",
+      "modifiedAt": "2021-05-25T22:47:25.727Z"
+    },
+    {
       "id": "RskoB7r4Bic",
       "uuid": "a45f1803-b845-42aa-9142-f5f80ea09416",
       "userId": "t45AiwidW",
